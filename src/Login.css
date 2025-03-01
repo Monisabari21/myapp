@@ -1,0 +1,19 @@
+.Login-container {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .Login-container input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .Login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color:blue;
+    color: white;
+  }

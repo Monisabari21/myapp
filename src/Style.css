@@ -1,0 +1,29 @@
+.Navbar {
+    display:grid;
+    justify-content: space-between;
+    background-color:black;
+    padding: 10px;
+    color: white;
+    
+  }
+  
+  .Product {
+  
+    border: 1px solid blueviolet;
+    padding: 15px;
+    width: 200px;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content:flex-start;
+    
+    
+    }
+    .Productcontainer{
+      display: flex;
+      flex-direction: column;
+      justify-content:flex-start;
+      align-items:first baseline;
+      gap:200px;
+      padding: 20px;
+    }
+    
