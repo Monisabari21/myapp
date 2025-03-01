@@ -20,6 +20,10 @@ const ProductList=()=>{
               <img src={Smartphone}alt="Smartphone"/>
               
               <img src={Headphones}alt="Headphones"/>
+              <h3>{Product.name}</h3>
+              <p>{Product.descrption}</p>
+              <p><strong>${Product.price}</strong></p>
+              <button>Add to cart</button>
               
           
         </div>
