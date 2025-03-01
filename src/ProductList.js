@@ -16,6 +16,8 @@ const ProductList=()=>{
           
              <div key={Product.id} className="Product">
               <img src={Laptop}alt="Laptop"/>
+              <img src={Smartphone}alt="Smartphone"/>
+              <img src={Headphones}alt="Headphones"/>
           <h3>{Product.name}</h3>
          <p>  {Product.description} </p>
           <p><strong>{Product.price}</strong></p>
