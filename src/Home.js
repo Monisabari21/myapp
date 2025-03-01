@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div >
       <Navbar/>
-      <h1> welcome to our store</h1>
+      <h1> welcome to our store "JIO DIGITALS"</h1>
       <ProductList/>
       </div>
   );
